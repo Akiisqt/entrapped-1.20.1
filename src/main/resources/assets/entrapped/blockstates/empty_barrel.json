@@ -9,10 +9,10 @@
       "y": 180
     },
     "level=0,facing=south": {
-      "model": "entrapped:block/empty_barrel_1"
+      "model": "entrapped:block/empty_barrel"
     },
     "level=0,facing=west": {
-      "model": "entrapped:block/empty_barrel_1",
+      "model": "entrapped:block/empty_barrel",
       "y": 90
     },
     "level=1,facing=east": {
