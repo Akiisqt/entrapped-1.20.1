@@ -1,0 +1,151 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "entrapped:empty_barrel"
+        }
+      ]
+    }
+  ],
+  "variants": {
+    "level=0,facing=east": {
+      "model": "entrapped:block/empty_barrel",
+      "y": 270
+    },
+    "level=0,facing=north": {
+      "model": "entrapped:block/empty_barrel",
+      "y": 180
+    },
+    "level=0,facing=south": {
+      "model": "entrapped:block/empty_barrel_1"
+    },
+    "level=0,facing=west": {
+      "model": "entrapped:block/empty_barrel_1",
+      "y": 90
+    },
+    "level=1,facing=east": {
+      "model": "entrapped:block/empty_barrel_1",
+      "y": 270
+    },
+    "level=1,facing=north": {
+      "model": "entrapped:block/empty_barrel_1",
+      "y": 180
+    },
+    "level=1,facing=south": {
+      "model": "entrapped:block/empty_barrel_1"
+    },
+    "level=1,facing=west": {
+      "model": "entrapped:block/empty_barrel_1",
+      "y": 90
+    },
+    "level=2,facing=east": {
+      "model": "entrapped:block/empty_barrel_2",
+      "y": 270
+    },
+    "level=2,facing=north": {
+      "model": "entrapped:block/empty_barrel_2",
+      "y": 180
+    },
+    "level=2,facing=south": {
+      "model": "entrapped:block/empty_barrel_2"
+    },
+    "level=2,facing=west": {
+      "model": "entrapped:block/empty_barrel_2",
+      "y": 90
+    },
+    "level=3,facing=east": {
+      "model": "entrapped:block/empty_barrel_3",
+      "y": 270
+    },
+    "level=3,facing=north": {
+      "model": "entrapped:block/empty_barrel_3",
+      "y": 180
+    },
+    "level=3,facing=south": {
+      "model": "entrapped:block/empty_barrel_3"
+    },
+    "level=3,facing=west": {
+      "model": "entrapped:block/empty_barrel_3",
+      "y": 90
+    },
+    "level=4,facing=east": {
+      "model": "entrapped:block/empty_barrel_4",
+      "y": 270
+    },
+    "level=4,facing=north": {
+      "model": "entrapped:block/empty_barrel_4",
+      "y": 180
+    },
+    "level=4,facing=south": {
+      "model": "entrapped:block/empty_barrel_4"
+    },
+    "level=4,facing=west": {
+      "model": "entrapped:block/empty_barrel_4",
+      "y": 90
+    },
+    "level=5,facing=east": {
+      "model": "entrapped:block/empty_barrel_5",
+      "y": 270
+    },
+    "level=5,facing=north": {
+      "model": "entrapped:block/empty_barrel_5",
+      "y": 180
+    },
+    "level=5,facing=south": {
+      "model": "entrapped:block/empty_barrel_5"
+    },
+    "level=5,facing=west": {
+      "model": "entrapped:block/empty_barrel_5",
+      "y": 90
+    },
+    "level=6,facing=east": {
+      "model": "entrapped:block/empty_barrel_6",
+      "y": 270
+    },
+    "level=6,facing=north": {
+      "model": "entrapped:block/empty_barrel_6",
+      "y": 180
+    },
+    "level=6,facing=south": {
+      "model": "entrapped:block/empty_barrel_6"
+    },
+    "level=6,facing=west": {
+      "model": "entrapped:block/empty_barrel_6",
+      "y": 90
+    },
+    "level=7,facing=east": {
+      "model": "entrapped:block/empty_barrel_7",
+      "y": 270
+    },
+    "level=7,facing=north": {
+      "model": "entrapped:block/empty_barrel_7",
+      "y": 180
+    },
+    "level=7,facing=south": {
+      "model": "entrapped:block/empty_barrel_7"
+    },
+    "level=7,facing=west": {
+      "model": "entrapped:block/empty_barrel_7",
+      "y": 90
+    },
+    "level=8,facing=east": {
+      "model": "entrapped:block/empty_barrel_8",
+      "y": 270
+    },
+    "level=8,facing=north": {
+      "model": "entrapped:block/empty_barrel_8",
+      "y": 180
+    },
+    "level=8,facing=south": {
+      "model": "entrapped:block/empty_barrel_8"
+    },
+    "level=8,facing=west": {
+      "model": "entrapped:block/empty_barrel_8",
+      "y": 90
+    }
+  }
+}
