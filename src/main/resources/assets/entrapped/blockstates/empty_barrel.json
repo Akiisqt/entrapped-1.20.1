@@ -1,16 +1,4 @@
 {
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "entrapped:empty_barrel"
-        }
-      ]
-    }
-  ],
   "variants": {
     "level=0,facing=east": {
       "model": "entrapped:block/empty_barrel",
