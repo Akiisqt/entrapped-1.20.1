@@ -57,6 +57,10 @@ public class Barrel extends HorizontalFacingBlock implements BlockEntityProvider
     @Override
     @SuppressWarnings("deprecation")
     public ActionResult onUse(BlockState state, World world, BlockPos pos, PlayerEntity player, Hand hand, BlockHitResult hit) {
+//Check if barrel is sealed, check thst item stack is empty, check if player is crouched.
+//check if barrel isnt sealed, check for barrel lid and right click seal barrel, if no lid and player is shift left clicking return prevous item
+
+//check that hand has a valid recipe, if so send to client to change color of the powder and change the blockstate level up
         return ActionResult.SUCCESS;
     }
 
